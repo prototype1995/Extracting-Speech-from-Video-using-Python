@@ -8,13 +8,9 @@ A python program in which audio of a video is written to a text file using Googl
 
 ### Steps to be done:
 1. Install virtualenv:
-##### Windows
+##### Windows / Linux
 ```console
-  pip install virtualenv
-```
-##### Linux
-```console
-  pip3 install virtualenv
+  pip install virtualenv / pip3 install virtualenv
 ```
 
 2. Create a virtual enviroment:
@@ -24,21 +20,13 @@ A python program in which audio of a video is written to a text file using Googl
 ```
 
 3. Install dependencies:
-##### Windows
+##### Windows / Linux
 ```console
-  pip install -r requirements.txt
-```
-##### Linux
-```console
-  pip3 install -r requirements.txt
+  pip install -r requirements.txt / pip3 install -r requirements.txt
 ```
 
 4. Run program
-##### Windows
+##### Windows / Linux
 ```console
-  python video_to_speech.py
-```
-##### Linux
-```console
-  python3 video_to_speech.py
+  python video_to_speech.py / python3 video_to_speech.py
 ```
